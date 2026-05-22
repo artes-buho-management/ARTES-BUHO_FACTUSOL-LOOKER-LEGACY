@@ -1,0 +1,9 @@
+ABRIR PANEL - ARTES BUHO
+
+Enlace directo del panel:
+http://127.0.0.1:8501
+
+Uso rapido:
+1) Ejecuta scripts/start_panel_hidden.ps1
+2) Abre el enlace del panel
+3) Para parar el panel usa scripts/stop_panel.ps1
